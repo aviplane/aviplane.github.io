@@ -1,18 +1,1 @@
-{
-  "name": "Doyle Group",
-  "short_name": "Doyle Group",
-  "lang": "en-us",
-  "theme_color": "#A51C30",
-  "background_color": "#A51C30",
-  "icons": [{
-    "src": "/doyle-group-site/media/icon_hu_722adb4dbd65e1.png",
-    "sizes": "192x192",
-    "type": "image/png"
-    }, {
-    "src": "/doyle-group-site/media/icon_hu_d9403f45485b9e70.png",
-    "sizes": "512x512",
-    "type": "image/png"
-     }],
-  "display": "standalone",
-  "start_url": "/doyle-group-site/?utm_source=web_app_manifest"
-}
+{"name":"Doyle Group","short_name":"Doyle Group","lang":"en-us","theme_color":"#A51C30","background_color":"#A51C30","icons":[{"src":"/doyle-group-site/media/icon_hu_722adb4dbd65e1.png","sizes":"192x192","type":"image/png"},{"src":"/doyle-group-site/media/icon_hu_d9403f45485b9e70.png","sizes":"512x512","type":"image/png"}],"display":"standalone","start_url":"/doyle-group-site/?utm_source=web_app_manifest"}
