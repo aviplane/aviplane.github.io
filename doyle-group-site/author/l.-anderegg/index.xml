@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Anderegg | Doyle Group</title>
+    <link>http://localhost:1313/author/l.-anderegg/</link>
+      <atom:link href="http://localhost:1313/author/l.-anderegg/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Anderegg</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_1088d0f1764c6344.png</url>
+      <title>L. Anderegg</title>
+      <link>http://localhost:1313/author/l.-anderegg/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Control of Trapped Polyatomic Molecules for eEDM Searches</title>
+      <link>http://localhost:1313/publication/anderegg2023quantum/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/anderegg2023quantum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

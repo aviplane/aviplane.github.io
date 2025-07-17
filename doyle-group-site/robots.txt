@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://avikar.net/doyle-group-site/sitemap.xml

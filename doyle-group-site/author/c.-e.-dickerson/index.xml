@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. E. Dickerson | Doyle Group</title>
+    <link>https://avikar.net/doyle-group-site/author/c.-e.-dickerson/</link>
+      <atom:link href="https://avikar.net/doyle-group-site/author/c.-e.-dickerson/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. E. Dickerson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://avikar.net/doyle-group-site/media/logo_hu_f4e82b191d2fa997.png</url>
+      <title>C. E. Dickerson</title>
+      <link>https://avikar.net/doyle-group-site/author/c.-e.-dickerson/</link>
+    </image>
+    
+    <item>
+      <title>Functionalizing Aromatic Compounds with Optical Cycling Centers</title>
+      <link>https://avikar.net/doyle-group-site/publication/zhu2022functionalizing/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/zhu2022functionalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathway toward Optical Cycling and Laser Cooling of Functionalized Arenes</title>
+      <link>https://avikar.net/doyle-group-site/publication/mitra2022pathway/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/mitra2022pathway/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

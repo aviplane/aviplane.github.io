@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. K. Li | Doyle Group</title>
+    <link>http://localhost:1313/author/g.-k.-li/</link>
+      <atom:link href="http://localhost:1313/author/g.-k.-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. K. Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_27b67c9ad1a544f4.png</url>
+      <title>G. K. Li</title>
+      <link>http://localhost:1313/author/g.-k.-li/</link>
+    </image>
+    
+    <item>
+      <title>Conveyor-belt magneto-optical trapping of molecules</title>
+      <link>http://localhost:1313/publication/li2025conveyor/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li2025conveyor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

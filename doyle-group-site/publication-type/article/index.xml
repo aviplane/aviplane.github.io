@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | Doyle Group</title>
+    <link>https://avikar.net/doyle-group-site/publication-type/article/</link>
+      <atom:link href="https://avikar.net/doyle-group-site/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://avikar.net/doyle-group-site/media/logo_hu_f4e82b191d2fa997.png</url>
+      <title>Article</title>
+      <link>https://avikar.net/doyle-group-site/publication-type/article/</link>
+    </image>
+    
+    <item>
+      <title>A cryogenic buffer gas beam source with in-situ ablation target replacement</title>
+      <link>https://avikar.net/doyle-group-site/publication/han2025cryogenic/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/han2025cryogenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-State-Controlled Collisions of Ultracold Polyatomic Molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/vilas2025quantum/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/vilas2025quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conveyor-belt magneto-optical trap of CaF</title>
+      <link>https://avikar.net/doyle-group-site/publication/yu2025conveyer/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/yu2025conveyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Compression Blue-Detuned Magneto-Optical Trap of Polyatomic Molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/hallas2024high/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/hallas2024high/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

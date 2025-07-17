@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lunstad, J. Mango, A. Nasir, T. Ono, T. Sakamoto, J. M. Doyle. Physical Review Letters, 134(8), 083401 (2025). ArXiv:2409.04948 | Doyle Group</title>
+    <link>http://localhost:1313/author/lunstad-j.-mango-a.-nasir-t.-ono-t.-sakamoto-j.-m.-doyle.-physical-review-letters-1348-083401-2025.-arxiv2409.04948/</link>
+      <atom:link href="http://localhost:1313/author/lunstad-j.-mango-a.-nasir-t.-ono-t.-sakamoto-j.-m.-doyle.-physical-review-letters-1348-083401-2025.-arxiv2409.04948/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lunstad, J. Mango, A. Nasir, T. Ono, T. Sakamoto, J. M. Doyle. Physical Review Letters, 134(8), 083401 (2025). ArXiv:2409.04948</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_1088d0f1764c6344.png</url>
+      <title>Lunstad, J. Mango, A. Nasir, T. Ono, T. Sakamoto, J. M. Doyle. Physical Review Letters, 134(8), 083401 (2025). ArXiv:2409.04948</title>
+      <link>http://localhost:1313/author/lunstad-j.-mango-a.-nasir-t.-ono-t.-sakamoto-j.-m.-doyle.-physical-review-letters-1348-083401-2025.-arxiv2409.04948/</link>
+    </image>
+    
+    <item>
+      <title>Quantum-State-Controlled Collisions of Ultracold Polyatomic Molecules</title>
+      <link>http://localhost:1313/publication/vilas2025quantum/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vilas2025quantum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

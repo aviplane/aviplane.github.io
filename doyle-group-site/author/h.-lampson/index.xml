@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Lampson | Doyle Group</title>
+    <link>https://avikar.net/doyle-group-site/author/h.-lampson/</link>
+      <atom:link href="https://avikar.net/doyle-group-site/author/h.-lampson/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Lampson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://avikar.net/doyle-group-site/media/logo_hu_f4e82b191d2fa997.png</url>
+      <title>H. Lampson</title>
+      <link>https://avikar.net/doyle-group-site/author/h.-lampson/</link>
+    </image>
+    
+    <item>
+      <title>Magneto-Optical Trapping of a Heavy Polyatomic Molecule for Precision Measurement</title>
+      <link>https://avikar.net/doyle-group-site/publication/lasner2025magneto/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/lasner2025magneto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-State-Controlled Collisions of Ultracold Polyatomic Molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/vilas2025quantum/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/vilas2025quantum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grace Li | Doyle Group</title>
+    <link>https://avikar.net/doyle-group-site/author/grace-li/</link>
+      <atom:link href="https://avikar.net/doyle-group-site/author/grace-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grace Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://avikar.net/doyle-group-site/author/grace-li/avatar_hu_91152b8b216ed4b0.jpg</url>
+      <title>Grace Li</title>
+      <link>https://avikar.net/doyle-group-site/author/grace-li/</link>
+    </image>
+    
+    <item>
+      <title>Quantum-State-Controlled Collisions of Ultracold Polyatomic Molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/vilas2025quantum/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/vilas2025quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conveyor-belt magneto-optical trapping of molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/li2025conveyor/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/li2025conveyor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conveyor-belt magneto-optical trap of CaF</title>
+      <link>https://avikar.net/doyle-group-site/publication/yu2025conveyer/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/yu2025conveyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Compression Blue-Detuned Magneto-Optical Trap of Polyatomic Molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/hallas2024high/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/hallas2024high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optical tweezer array of ultracold polyatomic molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/vilas2024optical/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/vilas2024optical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

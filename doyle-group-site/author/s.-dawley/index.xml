@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Dawley | Doyle Group</title>
+    <link>https://avikar.net/doyle-group-site/author/s.-dawley/</link>
+      <atom:link href="https://avikar.net/doyle-group-site/author/s.-dawley/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Dawley</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://avikar.net/doyle-group-site/media/logo_hu_f4e82b191d2fa997.png</url>
+      <title>S. Dawley</title>
+      <link>https://avikar.net/doyle-group-site/author/s.-dawley/</link>
+    </image>
+    
+    <item>
+      <title>Blackbody thermalization and vibrational lifetimes of trapped polyatomic molecules</title>
+      <link>https://avikar.net/doyle-group-site/publication/vilas2023blackbody/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/vilas2023blackbody/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

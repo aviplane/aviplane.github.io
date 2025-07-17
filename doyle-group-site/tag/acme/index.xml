@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACME | Doyle Group</title>
+    <link>https://avikar.net/doyle-group-site/tag/acme/</link>
+      <atom:link href="https://avikar.net/doyle-group-site/tag/acme/index.xml" rel="self" type="application/rss+xml" />
+    <description>ACME</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://avikar.net/doyle-group-site/media/logo_hu_f4e82b191d2fa997.png</url>
+      <title>ACME</title>
+      <link>https://avikar.net/doyle-group-site/tag/acme/</link>
+    </image>
+    
+    <item>
+      <title>A cryogenic buffer gas beam source with in-situ ablation target replacement</title>
+      <link>https://avikar.net/doyle-group-site/publication/han2025cryogenic/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/han2025cryogenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiPM module for the ACME III electron EDM search</title>
+      <link>https://avikar.net/doyle-group-site/publication/hiramoto2022sipm/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://avikar.net/doyle-group-site/publication/hiramoto2022sipm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

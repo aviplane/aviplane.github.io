@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anderegg | Doyle Group</title>
+    <link>http://localhost:1313/author/anderegg/</link>
+      <atom:link href="http://localhost:1313/author/anderegg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anderegg</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_1088d0f1764c6344.png</url>
+      <title>Anderegg</title>
+      <link>http://localhost:1313/author/anderegg/</link>
+    </image>
+    
+    <item>
+      <title>Magneto-Optical Trapping of a Heavy Polyatomic Molecule for Precision Measurement</title>
+      <link>http://localhost:1313/publication/lasner2025magneto/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lasner2025magneto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conveyor-belt magneto-optical trap of CaF</title>
+      <link>http://localhost:1313/publication/yu2025conveyer/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yu2025conveyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Compression Blue-Detuned Magneto-Optical Trap of Polyatomic Molecules</title>
+      <link>http://localhost:1313/publication/hallas2024high/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hallas2024high/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
